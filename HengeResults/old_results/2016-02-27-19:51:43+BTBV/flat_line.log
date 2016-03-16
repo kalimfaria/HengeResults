@@ -1,0 +1,1089 @@
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 0
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 1
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 21
+production-topology1-1-1456627490,0.0,0.0,1456627490907
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 2
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 1
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 23
+production-topology1-1-1456627490,0.0,0.0,1456627492175
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 6
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 1
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 2
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 28
+production-topology1-1-1456627490,0.0,0.0,1456627497220
+production-topology2-2-1456627496,0.0,0.0,1456627497220
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 12
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 6
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 2
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 33
+production-topology1-1-1456627490,0.0,0.0,1456627502649
+production-topology2-2-1456627496,0.0,0.0,1456627502649
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 13
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 7
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 0
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 3
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 34
+production-topology3-3-1456627503,0.0,0.0,1456627503712
+production-topology1-1-1456627490,0.0,0.0,1456627503712
+production-topology2-2-1456627496,0.0,0.0,1456627503712
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 19
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 13
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 1
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 7
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 41
+production-topology3-3-1456627503,0.0,0.0,1456627510258
+production-topology1-1-1456627490,0.0,0.0,1456627510258
+production-topology2-2-1456627496,0.0,0.0,1456627510258
+production-topology4-4-1456627509,0.0,0.0,1456627510259
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 22
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 17
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 4
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 10
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 44
+production-topology3-3-1456627503,0.0,0.0,1456627513368
+production-topology1-1-1456627490,0.0,0.0,1456627513368
+production-topology2-2-1456627496,0.0,0.0,1456627513369
+production-topology4-4-1456627509,0.0,0.0,1456627513369
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 33
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 27
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 14
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 20
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 55
+production-topology3-3-1456627503,0.0,0.0,1456627524141
+production-topology1-1-1456627490,0.0,0.0,1456627524142
+production-topology2-2-1456627496,0.0,0.0,1456627524142
+production-topology4-4-1456627509,0.0,0.0,1456627524142
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 44
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 38
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 25
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 31
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 65
+production-topology3-3-1456627503,0.0,0.0,1456627534851
+production-topology1-1-1456627490,0.0,0.0,1456627534851
+production-topology2-2-1456627496,0.0,0.0,1456627534851
+production-topology4-4-1456627509,0.0,0.0,1456627534852
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 55
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 49
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 36
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 42
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 76
+production-topology3-3-1456627503,0.0,0.0,1456627545507
+production-topology1-1-1456627490,0.0,0.0,1456627545507
+production-topology2-2-1456627496,0.0,0.0,1456627545508
+production-topology4-4-1456627509,0.0,0.0,1456627545508
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 65
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 59
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 46
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 53
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 87
+production-topology3-3-1456627503,0.0,0.0,1456627556166
+production-topology1-1-1456627490,0.0,0.0,1456627556166
+production-topology2-2-1456627496,0.0,0.0,1456627556166
+production-topology4-4-1456627509,0.0,0.0,1456627556166
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 76
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 70
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 57
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 63
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 97
+production-topology3-3-1456627503,0.0,0.0,1456627566783
+production-topology1-1-1456627490,0.0,0.0,1456627566783
+production-topology2-2-1456627496,0.0,0.0,1456627566783
+production-topology4-4-1456627509,0.0,0.0,1456627566783
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 87
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 81
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 68
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 74
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 108
+production-topology3-3-1456627503,0.0,0.0,1456627577375
+production-topology1-1-1456627490,0.0,0.0,1456627577375
+production-topology2-2-1456627496,0.0,0.0,1456627577375
+production-topology4-4-1456627509,0.0,0.0,1456627577375
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 97
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 91
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 78
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 84
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 118
+production-topology3-3-1456627503,0.0,0.0,1456627587917
+production-topology1-1-1456627490,0.0,0.0,1456627587917
+production-topology2-2-1456627496,0.0,0.0,1456627587917
+production-topology4-4-1456627509,0.0,0.0,1456627587918
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 108
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 102
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 89
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 95
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 129
+production-topology3-3-1456627503,0.0,0.0,1456627598449
+production-topology1-1-1456627490,0.0,0.0,1456627598449
+production-topology2-2-1456627496,0.0,0.0,1456627598449
+production-topology4-4-1456627509,0.0,0.0,1456627598449
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 118
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 112
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 99
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 105
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 139
+production-topology3-3-1456627503,0.0,0.0,1456627608970
+production-topology1-1-1456627490,0.0,0.0,1456627608970
+production-topology2-2-1456627496,0.0,0.0,1456627608971
+production-topology4-4-1456627509,0.0,0.0,1456627608971
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 129
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 123
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 110
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 116
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 150
+production-topology3-3-1456627503,0.0,0.0,1456627619505
+production-topology1-1-1456627490,0.0,0.0,1456627619506
+production-topology2-2-1456627496,0.0,0.0,1456627619506
+production-topology4-4-1456627509,0.0,0.0,1456627619506
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 139
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 133
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 120
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 126
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 160
+production-topology3-3-1456627503,0.0,0.0,1456627630019
+production-topology1-1-1456627490,0.0,0.0,1456627630019
+production-topology2-2-1456627496,0.0,0.0,1456627630019
+production-topology4-4-1456627509,0.0,0.0,1456627630020
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 150
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 144
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 131
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 137
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 171
+production-topology3-3-1456627503,0.0,0.0,1456627640537
+production-topology1-1-1456627490,0.0,0.0,1456627640538
+production-topology2-2-1456627496,0.0,0.0,1456627640538
+production-topology4-4-1456627509,0.0,0.0,1456627640538
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 160
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 154
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 141
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 147
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 181
+production-topology3-3-1456627503,0.0,0.0,1456627651042
+production-topology1-1-1456627490,0.0,0.0,1456627651042
+production-topology2-2-1456627496,0.0,0.0,1456627651043
+production-topology4-4-1456627509,0.0,0.0,1456627651043
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 171
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 165
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 152
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 158
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 192
+production-topology3-3-1456627503,0.0,0.0,1456627661545
+production-topology1-1-1456627490,0.0,0.0,1456627661545
+production-topology2-2-1456627496,0.0,0.0,1456627661545
+production-topology4-4-1456627509,0.0,0.0,1456627661546
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 181
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 175
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 162
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 168
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 202
+production-topology3-3-1456627503,0.0,0.0,1456627672056
+production-topology1-1-1456627490,0.0,0.0,1456627672056
+production-topology2-2-1456627496,0.0,0.0,1456627672057
+production-topology4-4-1456627509,0.0,0.0,1456627672057
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 192
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 186
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 173
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 179
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 213
+production-topology3-3-1456627503,0.0,0.0,1456627682557
+production-topology1-1-1456627490,0.0,0.0,1456627682557
+production-topology2-2-1456627496,0.0,0.0,1456627682558
+production-topology4-4-1456627509,0.0,0.0,1456627682558
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 202
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 196
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 183
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 189
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 223
+production-topology3-3-1456627503,0.0,0.0,1456627693048
+production-topology1-1-1456627490,0.0,0.0,1456627693049
+production-topology2-2-1456627496,0.0,0.0,1456627693049
+production-topology4-4-1456627509,0.0,0.0,1456627693049
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 213
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 207
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 194
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 200
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 234
+production-topology3-3-1456627503,0.0,0.0,1456627703464
+production-topology1-1-1456627490,0.0,0.0,1456627703464
+production-topology2-2-1456627496,0.0,0.0,1456627703465
+production-topology4-4-1456627509,0.0,0.0,1456627703465
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 223
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 217
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 204
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 210
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 244
+production-topology3-3-1456627503,0.0,0.0,1456627713875
+production-topology1-1-1456627490,0.0,0.0,1456627713876
+production-topology2-2-1456627496,0.0,0.0,1456627713876
+production-topology4-4-1456627509,0.0,0.0,1456627713876
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 234
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 228
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 215
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 221
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 255
+production-topology3-3-1456627503,0.0,0.0,1456627724312
+production-topology1-1-1456627490,0.0,0.0,1456627724312
+production-topology2-2-1456627496,0.0,0.0,1456627724313
+production-topology4-4-1456627509,0.0,0.0,1456627724313
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 244
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 238
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 225
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 231
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 265
+production-topology3-3-1456627503,0.0,0.0,1456627734730
+production-topology1-1-1456627490,0.0,0.0,1456627734730
+production-topology2-2-1456627496,0.0,0.0,1456627734730
+production-topology4-4-1456627509,0.0,0.0,1456627734731
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 254
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 248
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 236
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 242
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 276
+production-topology3-3-1456627503,0.0,0.0,1456627745157
+production-topology1-1-1456627490,0.0,0.0,1456627745158
+production-topology2-2-1456627496,0.0,0.0,1456627745158
+production-topology4-4-1456627509,0.0,0.0,1456627745158
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 265
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 259
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 246
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 252
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 286
+production-topology3-3-1456627503,0.0,0.0,1456627755598
+production-topology1-1-1456627490,0.0,0.0,1456627755599
+production-topology2-2-1456627496,0.0,0.0,1456627755599
+production-topology4-4-1456627509,0.0,0.0,1456627755599
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 275
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 269
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 256
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 262
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 296
+production-topology3-3-1456627503,0.0,0.0,1456627766025
+production-topology1-1-1456627490,0.0,0.0,1456627766025
+production-topology2-2-1456627496,0.0,0.0,1456627766026
+production-topology4-4-1456627509,0.0,0.0,1456627766026
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 286
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 280
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 267
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 273
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 307
+production-topology3-3-1456627503,0.0,0.0,1456627776458
+production-topology1-1-1456627490,0.0,0.0,1456627776458
+production-topology2-2-1456627496,0.0,0.0,1456627776459
+production-topology4-4-1456627509,0.0,0.0,1456627776459
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 296
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 290
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 277
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 283
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 317
+production-topology3-3-1456627503,0.0,0.0,1456627786892
+production-topology1-1-1456627490,0.0,0.0,1456627786892
+production-topology2-2-1456627496,0.0,0.0,1456627786892
+production-topology4-4-1456627509,0.0,0.0,1456627786893
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 307
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 301
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 288
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 294
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 328
+production-topology3-3-1456627503,0.0,0.0,1456627797309
+production-topology1-1-1456627490,0.0,0.0,1456627797309
+production-topology2-2-1456627496,0.0,0.0,1456627797309
+production-topology4-4-1456627509,0.0,0.0,1456627797310
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 317
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 311
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 298
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 304
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 338
+production-topology3-3-1456627503,0.0,0.0,1456627807729
+production-topology1-1-1456627490,0.0,0.0,1456627807729
+production-topology2-2-1456627496,0.0,0.0,1456627807729
+production-topology4-4-1456627509,0.0,0.0,1456627807730
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 327
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 321
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 309
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 315
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 349
+production-topology3-3-1456627503,0.0,0.0,1456627818142
+production-topology1-1-1456627490,0.0,0.0,1456627818143
+production-topology2-2-1456627496,0.0,0.0,1456627818143
+production-topology4-4-1456627509,0.0,0.0,1456627818143
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 338
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 332
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 319
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 325
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 359
+production-topology3-3-1456627503,0.0,0.0,1456627828554
+production-topology1-1-1456627490,0.0,0.0,1456627828555
+production-topology2-2-1456627496,0.0,0.0,1456627828555
+production-topology4-4-1456627509,0.0,0.0,1456627828555
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 348
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 342
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 329
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 335
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 369
+production-topology3-3-1456627503,0.0,0.0,1456627838960
+production-topology1-1-1456627490,0.0,0.0,1456627838961
+production-topology2-2-1456627496,0.0,0.0,1456627838961
+production-topology4-4-1456627509,0.0,0.0,1456627838961
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 359
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 353
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 340
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 346
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 380
+production-topology3-3-1456627503,0.0,0.0,1456627849382
+production-topology1-1-1456627490,0.0,0.0,1456627849382
+production-topology2-2-1456627496,0.0,0.0,1456627849382
+production-topology4-4-1456627509,0.0,0.0,1456627849383
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 369
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 363
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 350
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 356
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 390
+production-topology3-3-1456627503,0.0,0.0,1456627859791
+production-topology1-1-1456627490,0.0,0.0,1456627859791
+production-topology2-2-1456627496,0.0,0.0,1456627859791
+production-topology4-4-1456627509,0.0,0.0,1456627859792
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 379
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 374
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 361
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 367
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 401
+production-topology3-3-1456627503,0.0,0.0,1456627870203
+production-topology1-1-1456627490,0.0,0.0,1456627870203
+production-topology2-2-1456627496,0.0,0.0,1456627870203
+production-topology4-4-1456627509,0.0,0.0,1456627870203
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 390
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 384
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 371
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 377
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 411
+production-topology3-3-1456627503,0.0,0.0,1456627880617
+production-topology1-1-1456627490,0.0,0.0,1456627880618
+production-topology2-2-1456627496,0.0,0.0,1456627880618
+production-topology4-4-1456627509,0.0,0.0,1456627880618
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 400
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 394
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 381
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 387
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 421
+production-topology3-3-1456627503,0.0,0.0,1456627890948
+production-topology1-1-1456627490,0.0,0.0,1456627890948
+production-topology2-2-1456627496,0.0,0.0,1456627890949
+production-topology4-4-1456627509,0.0,0.0,1456627890949
+TOPOLOGY INFO 
+production-topology1-1-1456627490
+Topology Uptime: 411
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology2-2-1456627496
+Topology Uptime: 405
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology4-4-1456627509
+Topology Uptime: 392
+Topology Status: ACTIVE
+Topology Sched Status: null
+production-topology3-3-1456627503
+Topology Uptime: 398
+Topology Status: ACTIVE
+Topology Sched Status: null
+********* END CLUSTER INFO **********
+********* CLUSTER INFO: **********
+NUMBER OF TOPOLOGIES: 4
+NUMBER OF SUPERVISORS: 0
+NIMBUS UPTIME: 432
+production-topology3-3-1456627503,0.0,0.0,1456627901247
+production-topology1-1-1456627490,0.0,0.0,1456627901248
+production-topology2-2-1456627496,0.0,0.0,1456627901248
+production-topology4-4-1456627509,0.0,0.0,1456627901248
